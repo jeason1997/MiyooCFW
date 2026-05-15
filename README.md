@@ -105,6 +105,7 @@ Download | Dev / Port by
 [quartermaster](https://github.com/Apaczer/quartermaster/releases/latest) | [hi-ban](https://github.com/Apaczer/quartermaster)
 [Biniax2](https://github.com/salvacam/biniax2/releases/latest) | [salvacam](https://github.com/salvacam/biniax2)
 [Quake](https://github.com/tiopex/sdlquake/releases/latest) | [gameblabla](https://github.com/tiopex/sdlquake)
+[Quake II](https://github.com/Apaczer/quake2-miyoo/releases/latest) | [gameblabla](https://github.com/Apaczer/quake2-miyoo)
 [Promesst](https://github.com/szymor/promesst/releases/latest) | [szymor](https://github.com/szymor/promesst)
 [NXEngine (aka CaveStory)](https://github.com/Apaczer/NXEngine/releases/latest) | [Apaczer](https://github.com/Apaczer/NXEngine)
 [Chocolate Doom](https://github.com/tiopex/Chocolate-Doom-miyoo/releases/latest) | [Tiopex](https://github.com/tiopex/Chocolate-Doom-miyoo)
@@ -119,6 +120,7 @@ Download | Dev / Port by
 [OpenTyrian](https://github.com/MiyanoOsu/opentyrian-miyoo/releases/latest) | [MiyanoOsu](https://github.com/MiyanoOsu/opentyrian-miyoo)
 [HHexen](https://github.com/MiyanoOsu/hhexen-miyoo/releases/latest) | [MiyanoOsu](https://github.com/MiyanoOsu/hhexen-miyoo)
 [Undertale (Butterscotch)](https://github.com/kptmx/Butterscotch-MiyooCFW/releases/latest) | [kptmx](https://github.com/kptmx/Butterscotch-MiyooCFW)
+[OpenLara](https://github.com/jSTE0/OpenLara/releases/latest) | [jSTE0](https://github.com/jSTE0/OpenLara)
 
 ---
 
@@ -176,6 +178,7 @@ Download | Dev / Port by
 [Frodo2Go, C64](https://github.com/pthalin/Frodo2Go/releases/latest) | [pthalin](https://github.com/pthalin/Frodo2Go)
 [MAME4all](https://github.com/Apaczer/mame4all_miyoo/releases/latest) | [Apaczer](https://github.com/Apaczer/mame4all_miyoo)
 [Temper, PC-Engine](https://github.com/Apaczer/temper/releases/latest) | [Apaczer](https://github.com/Apaczer/temper)
+[EasyRPG, RPG Maker 2000/2003](https://github.com/TriForceX/MiyooCFW/files/8499432/EasyRPG_bittboy_mp3.zip) | [gameblabla](https://github.com/gameblabla/Player)
 
 ---
 
